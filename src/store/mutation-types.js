@@ -1,0 +1,8 @@
+export const HIDE_TABBAR = 'hideTabbar'
+export const SHOW_TABBAR = 'showTabbar'
+export const COMING_SOON_LIST = 'comingSoonList'
+export const NOW_PLAYING_LIST = 'nowPlayingList'
+export const CINEMA_LIST = 'cinemaList'
+export const CITY_LIST = 'cityList'
+export const CHANGE_CITY = 'changeCity'
+export const SEARCH_VAL = 'searchVal'
